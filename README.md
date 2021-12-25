@@ -8,10 +8,10 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import numpy as np and import sys
+2. Get the input
+3. Use the for function to find the values
+4. Print the output
 
 ## Program:
 ```
